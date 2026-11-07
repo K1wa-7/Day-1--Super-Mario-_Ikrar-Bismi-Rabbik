@@ -4,7 +4,7 @@ MISI PROYEK WORKSHOP REPOSITORY GITHUB PUBLIC: DOKUMENTASI KEGIATAN WORKSHOP
 
 Dokumentasi kegiatan **Day 1 Proyek Workshop** mengenai penggunaan Artificial Intelligence (AI), Git, dan GitHub untuk membantu proses pengembangan proyek serta mengelola perubahan kode.
 
-## 👤 Identitas Peserta
+##  Identitas Peserta
 
 - **Nama:** Ikrar Bismi Rabbik
 - **Kegiatan:** Day 1 Proyek Workshop
@@ -12,13 +12,13 @@ Dokumentasi kegiatan **Day 1 Proyek Workshop** mengenai penggunaan Artificial In
 
 ---
 
-## 📌 Deskripsi Repository
+##  Deskripsi Repository
 
 Repository ini dibuat sebagai dokumentasi dan media pembelajaran dari kegiatan Day 1 Proyek Workshop yang membahas dasar-dasar penggunaan AI, Git, dan GitHub.
 
 Di dalam repository ini terdapat rangkuman materi workshop, pengetahuan baru yang diperoleh, serta dokumentasi pembelajaran mengenai cara memanfaatkan AI dalam proses pengembangan aplikasi dan menggunakan GitHub untuk mengelola perubahan proyek.
 
-## 🎯 Tujuan Repository
+##  Tujuan Repository
 
 Repository ini bertujuan untuk:
 
@@ -30,7 +30,7 @@ Repository ini bertujuan untuk:
 
 ---
 
-## 📚 Rangkuman Materi Workshop
+##  Rangkuman Materi Workshop
 
 ### 1. Prompt Engineering
 
@@ -212,7 +212,7 @@ Proyek ini bertujuan untuk menggabungkan penggunaan AI dalam proses pembuatan ap
 
 ---
 
-## 💡 Poin Penting dan Pengetahuan Baru
+##  Poin Penting dan Pengetahuan Baru
 
 Beberapa hal penting yang saya pelajari dari kegiatan workshop ini adalah:
 
@@ -232,7 +232,7 @@ Beberapa hal penting yang saya pelajari dari kegiatan workshop ini adalah:
 
 ---
 
-## 📝 Pendapat Pribadi tentang Day 1 Proyek Workshop
+##  Pendapat Pribadi tentang Day 1 Proyek Workshop
 
 Menurut saya, kegiatan workshop Day 1 ini memberikan pengetahuan dan pengalaman baru, terutama dalam memahami penggunaan AI serta Git dan GitHub dalam proses pengembangan proyek.
 
@@ -246,7 +246,7 @@ Secara keseluruhan, workshop hari pertama ini sangat bermanfaat untuk menambah w
 
 ---
 
-## 📖 Referensi
+##  Referensi
 
 - Materi presentasi workshop: *Building with AI, Managing Change with GitHub* — Nugi Farhan (Senior Product Designer).
 - Google Cloud — [What is Prompt Engineering?](https://cloud.google.com/discover/what-is-prompt-engineering)

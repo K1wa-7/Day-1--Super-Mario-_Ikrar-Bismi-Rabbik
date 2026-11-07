@@ -7,6 +7,7 @@ Dokumentasi kegiatan **Day 1 Proyek Workshop** mengenai penggunaan Artificial In
 ##  Identitas Peserta
 
 - **Nama:** Ikrar Bismi Rabbik
+- **Kelompok:** 6 Super Mario
 - **Kegiatan:** Day 1 Proyek Workshop
 - **Materi:** Building with AI, Managing Change with GitHub
 
